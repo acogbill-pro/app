@@ -1,5 +1,6 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <!--<NuxtWelcome />-->
+    <v-btn>button</v-btn>
   </div>
 </template>
